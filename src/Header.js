@@ -4,7 +4,7 @@ import { VIEW_MODE_ICON } from './Button';
 
 export function Header() {
     return (
-        <header className="App-header">
+        <header>
             <h1>Gallery</h1>
 
             <ul>
