@@ -1,0 +1,27 @@
+header {
+  display: inline-block;
+  border-bottom: solid black;
+  height: 80px;
+  width: 100%;
+}
+
+header h1 {
+  display: inline;
+  width: 100px;
+  float: left;
+  vertical-align: middle;
+}
+
+header ul {
+  display: flex;
+  justify-content: flex-end;
+  list-style-type: none;
+  height: 100%;
+  margin: 0;
+  float: right;
+  width: fit-content;
+}
+
+header ul li {
+  align-self: center;
+}

@@ -1,0 +1,18 @@
+@import url('../node_modules/@fortawesome/fontawesome-free/css/all.min.css');
+
+.btn {
+    background: white;
+    border: none;
+    margin: 5px;
+    height: 25px;
+    cursor: pointer;
+}
+
+.icon-btn {
+    height: 50px;
+    width: 50px;
+}
+
+.icon-btn:hover {
+    color: dimgrey;
+}
